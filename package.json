@@ -1,0 +1,16 @@
+{
+  "name": "js_devmedia",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "aluno_objeto_literal.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
